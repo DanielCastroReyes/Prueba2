@@ -1,13 +1,20 @@
+version: '3.8'
+
 services:
   www:
+    container_name: web_app
     build: .
     ports:
-      - "82:80" 
+      - "82:80"
     volumes:
-      -  ./public:/var/www/html/
+      - ./public:/var/www/html/
     depends_on:
       - db
+    networks:
+      - app_network
+
   db:
+    container_name: mariadb_service
     image: mariadb:11.7.2
     expose:
       - "3306"
@@ -19,14 +26,23 @@ services:
     volumes:
       - .database/db.sql:/docker-entrypoint-initdb.d
       - ./eventos/database:/var/lib/mysql
-      
+    networks:
+      - app_network
+
   phpmyadmin:
+    container_name: phpmyadmin_ui
     image: phpmyadmin:5.1
     depends_on:
       - db
     ports:
-      - "8082:80" 
+      - "8082:80"
     environment:
       MYSQL_USER: user1
       MYSQL_PASSWORD: user1.pa55
       MYSQL_ROOT_PASSWORD: root.pa55
+    networks:
+      - app_network
+
+networks:
+  app_network:
+    driver: bridge

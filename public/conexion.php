@@ -1,5 +1,5 @@
 <?php
-const DB_HOST = 'proyecto-db-1';
+const DB_HOST = 'mariadb_service';
  const DB_NAME = 'eventos';
 const DB_PORT = '3306';
 const DB_USER = 'user1';
