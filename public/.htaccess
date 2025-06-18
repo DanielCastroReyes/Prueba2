@@ -1,0 +1,13 @@
+
+DirectoryIndex inicio.php
+
+# Deshabilitar el acceso directo a los archivos
+RewriteEngine On
+
+# Redirigir a 404 los archivos que no deben ser accesibles
+RewriteCond %{REQUEST_URI} \.(iml|xml|meta|zip|sql|log|bat|gitattributtes|dist|yml|markdown|template|y|sh|gitignore|cache|md|json|lock|phar|yaml) [NC,OR]
+RewriteCond %{REQUEST_URI} -d
+RewriteRule .* - [R=404,L]
+
+# Redirigir archivos específicos a 404
+RewriteRule ^(license|LICENSE)$ - [R=404,L]

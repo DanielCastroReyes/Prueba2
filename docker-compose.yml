@@ -1,0 +1,32 @@
+services:
+  www:
+    build: .
+    ports:
+      - "82:80" 
+    volumes:
+      -  ./public:/var/www/html/
+    depends_on:
+      - db
+  db:
+    image: mariadb:11.7.2
+    expose:
+      - "3306"
+    environment:
+      MYSQL_DATABASE: eventos
+      MYSQL_USER: user1
+      MYSQL_PASSWORD: user1.pa55
+      MYSQL_ROOT_PASSWORD: root.pa55
+    volumes:
+      - .database/db.sql:/docker-entrypoint-initdb.d
+      - ./eventos/database:/var/lib/mysql
+      
+  phpmyadmin:
+    image: phpmyadmin:5.1
+    depends_on:
+      - db
+    ports:
+      - "8082:80" 
+    environment:
+      MYSQL_USER: user1
+      MYSQL_PASSWORD: user1.pa55
+      MYSQL_ROOT_PASSWORD: root.pa55

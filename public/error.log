@@ -1,0 +1,356 @@
+[18-06-2025 00:48:04] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:48:07] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:48:10] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:48:12] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:48:13] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:48:17] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:48:39] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:50:25] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:51:21] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:52:16] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:52:43] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:52:57] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 00:53:50] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 01:01:09] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 01:01:19] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 01:02:18] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 01:03:23] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 {main}
+[18-06-2025 01:04:17] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 01:04:55] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 01:05:00] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 01:06:03] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(7): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 01:07:02] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 01:07:16] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(7): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:03:24] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(7): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:05:32] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(7): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:06:17] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:06:53] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:08:05] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:08:09] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 {main}
+[18-06-2025 07:08:18] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:11:41] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:20:11] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:20:52] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:21:34] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:21:56] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(4): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:26:22] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:30:08] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:30:10] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 {main}
+[18-06-2025 07:31:04] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 {main}
+[18-06-2025 07:32:17] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:32:37] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:34:04] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:13
+Stack trace:
+#0 /var/www/html/eventos.php(13): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:35:44] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:13
+Stack trace:
+#0 /var/www/html/eventos.php(13): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:36:08] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:13
+Stack trace:
+#0 /var/www/html/eventos.php(13): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 07:39:42] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 08:00:50] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 08:03:17] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 08:04:17] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 08:04:38] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 08:08:03] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 08:09:47] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 08:09:49] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 08:10:59] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 08:17:18] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 10:58:32] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 11:01:03] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 11:01:05] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 11:07:24] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 11:08:42] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
+[18-06-2025 11:11:25] Descripción de la excepción:  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eventos.eventos' doesn't exist in /var/www/html/eventos.php:7
+Stack trace:
+#0 /var/www/html/eventos.php(7): PDO->query('SELECT * FROM e...')
+#1 /var/www/html/novedades.php(3): require_once('/var/www/html/e...')
+#2 {main}
