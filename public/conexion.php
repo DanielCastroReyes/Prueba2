@@ -1,5 +1,5 @@
 <?php
-const DB_HOST = 'mariadb_service';
+const DB_HOST = 'phpmyadmin_ui';
  const DB_NAME = 'eventos';
 const DB_PORT = '3306';
 const DB_USER = 'user1';
